@@ -1,0 +1,18 @@
+#!/bin/sh
+##################################################
+#Script name: compile
+#Description: compiles file based on the filetype extension.
+#Args: ".py, .c, .tex"
+##################################################
+
+filename=$1
+extension="${filename##*.}"
+
+case $extension in
+	c )
+		gcc $1;;
+	py )
+		python $1;;
+	tex )
+		pdflatex $1;;
+esac

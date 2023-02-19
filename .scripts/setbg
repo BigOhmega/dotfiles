@@ -1,0 +1,15 @@
+#!/bin/sh
+##################################################
+#Script name: setbg
+#Description: sets the background of the desktop based on the argument given and uses pywal to change the theme colors based on the background image
+#Args: "image file (.jpeg, .jpg, .png)" OR "image directory path"
+##################################################
+
+[ -f "$1" ] && cp "$1" ~/.config/currwall.jpeg 
+
+[ -d "$1" ] && cp "$(find "$1" -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -type f | shuf -n 1)" ~/.config/currwall.jpeg 
+
+
+xwallpaper --zoom ~/.config/currwall.jpeg
+wal -c
+wal -i ~/.config/currwall.jpeg -n

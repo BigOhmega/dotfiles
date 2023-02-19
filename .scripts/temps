@@ -1,0 +1,8 @@
+#!/bin/sh
+##################################################
+#Script name: temps
+#Description: prints the temperature of the CPU in Celcius
+##################################################
+
+TEMP_LINE=$(sensors | grep 'Tctl')
+echo $TEMP_LINE | sed 's/Tctl: +//g' 
