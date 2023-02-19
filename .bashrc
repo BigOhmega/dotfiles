@@ -25,7 +25,7 @@ alias pac='sudo pacman'
 #alias lf='sudo lf'
 alias suck='sudo make uninstall && sudo make clean install'
 alias open='xdg-open'
-alias record='ffmpeg -f x11grab -s 3840x2160 -i :0.0 out.mkv'
+alias record='ffmpeg -f x11grab -s 3840x2160 -i :0.0 ~/Videos/out.mkv'
 
 #vim mode
 set -o vi
