@@ -1,0 +1,14 @@
+2023/02/19-20:32:51.629 5462 Reusing MANIFEST /home/A/.local/share/Cisco Packet Tracer/QtWebEngine/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/19-20:32:51.629 5462 Recovering log #4
+2023/02/19-20:32:51.629 5462 Reusing old log /home/A/.local/share/Cisco Packet Tracer/QtWebEngine/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/02/19-20:32:51.697 5465 Level-0 table #8: started
+2023/02/19-20:32:51.697 5465 Level-0 table #8: 736 bytes OK
+2023/02/19-20:32:51.698 5465 Delete type=0 #4
+2023/02/19-20:32:51.698 5465 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/19-20:32:51.698 5465 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xb0~\xa2\xc6fxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 203 : 0
+2023/02/19-20:32:51.698 5465 Compacting 1@1 + 1@2 files
+2023/02/19-20:32:51.699 5465 Generated table #9@1: 21 keys, 736 bytes
+2023/02/19-20:32:51.699 5465 Compacted 1@1 + 1@2 files => 736 bytes
+2023/02/19-20:32:51.700 5465 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/19-20:32:51.700 5465 Delete type=2 #8
+2023/02/19-20:32:51.700 5465 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xb0~\xa2\xc6fxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 203 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

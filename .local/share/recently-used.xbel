@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/A/Desktop/th.webp" added="2023-02-07T20:37:33.268176Z" modified="2023-02-07T20:37:33.268181Z" visited="2023-02-07T20:37:33.268177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T20:37:33.268179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Desktop/minimal-mountains-landscape-4k-az.jpg" added="2023-02-07T20:41:50.186137Z" modified="2023-02-07T20:41:50.186143Z" visited="2023-02-07T20:41:50.186138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T20:41:50.186141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Desktop/mountains_lscape_minimal_4k-hd_wallpapers.jpg" added="2023-02-07T20:42:15.274577Z" modified="2023-02-07T20:42:15.274581Z" visited="2023-02-07T20:42:15.274578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T20:42:15.274580Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr" added="2023-02-07T20:44:01.380032Z" modified="2023-02-07T20:44:01.380035Z" visited="2023-02-07T20:44:01.380033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2023-02-07T20:44:01.380034Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds" added="2023-02-07T20:44:20.572469Z" modified="2023-02-07T21:49:23.748591Z" visited="2023-02-07T20:44:20.572470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2023-02-07T21:49:23.748590Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/4K-Wallpaper-3840x2160-58-1536x864.jpg" added="2023-02-07T20:46:12.536477Z" modified="2023-02-07T20:46:12.536482Z" visited="2023-02-07T20:46:12.536478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T20:46:12.536480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Desktop/4K-Wallpaper-3840x2160-58-1536x864.jpg" added="2023-02-07T20:47:03.537268Z" modified="2023-02-07T20:47:03.537275Z" visited="2023-02-07T20:47:03.537269Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T20:47:03.537272Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Desktop/desktop-1920x1080.jpg" added="2023-02-07T20:50:55.526453Z" modified="2023-02-07T20:50:55.526457Z" visited="2023-02-07T20:50:55.526454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T20:50:55.526455Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Desktop/XGbwZnb.jpeg" added="2023-02-07T20:57:02.527240Z" modified="2023-02-07T20:57:02.527245Z" visited="2023-02-07T20:57:02.527241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T20:57:02.527243Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Desktop/n9uj60l.jpeg" added="2023-02-07T20:57:57.272255Z" modified="2023-02-07T20:57:57.272259Z" visited="2023-02-07T20:57:57.272256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T20:57:57.272257Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/YwAf7ZZ.jpeg" added="2023-02-07T21:32:37.639427Z" modified="2023-02-07T21:48:16.477062Z" visited="2023-02-07T21:32:37.639429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T21:48:16.477060Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/USm7KqH.jpeg" added="2023-02-07T21:56:26.729292Z" modified="2023-02-07T21:56:26.729299Z" visited="2023-02-07T21:56:26.729293Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-07T21:56:26.729296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/USm7KqH.jpeg" added="2023-02-07T22:02:48.553340Z" modified="2023-02-07T22:04:33.487410Z" visited="2023-02-07T22:02:48.553341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-07T22:04:33.487408Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/YwAf7ZZ.jpeg" added="2023-02-09T18:48:13.115326Z" modified="2023-02-09T18:48:13.115328Z" visited="2023-02-09T18:48:13.115326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-09T18:48:13.115327Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/N2IBlL7.jpeg" added="2023-02-09T18:54:05.538779Z" modified="2023-02-09T18:54:05.538784Z" visited="2023-02-09T18:54:05.538780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-09T18:54:05.538782Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/VksLfny.jpeg" added="2023-02-09T18:54:11.626643Z" modified="2023-02-09T18:54:11.626648Z" visited="2023-02-09T18:54:11.626644Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-09T18:54:11.626646Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/M7AaLjo.jpeg" added="2023-02-09T18:54:44.107214Z" modified="2023-02-09T18:54:44.107220Z" visited="2023-02-09T18:54:44.107215Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-09T18:54:44.107217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/PMVgU6q.jpeg" added="2023-02-09T18:55:07.795679Z" modified="2023-02-09T18:55:07.795686Z" visited="2023-02-09T18:55:07.795681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-09T18:55:07.795684Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/LRIhlOT.jpeg" added="2023-02-09T18:56:17.980797Z" modified="2023-02-09T18:56:17.980802Z" visited="2023-02-09T18:56:17.980798Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-09T18:56:17.980800Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/mT3A82u.jpeg" added="2023-02-09T18:56:24.772866Z" modified="2023-02-09T18:56:24.772872Z" visited="2023-02-09T18:56:24.772867Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-09T18:56:24.772870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/galaxystars.jpeg" added="2023-02-11T20:38:49.644123Z" modified="2023-02-11T20:38:49.644127Z" visited="2023-02-11T20:38:49.644124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T20:38:49.644125Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/blueicecastle.jpeg" added="2023-02-11T20:39:25.374127Z" modified="2023-02-11T20:39:25.374133Z" visited="2023-02-11T20:39:25.374128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T20:39:25.374130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/brownfantasycastle.jpeg" added="2023-02-11T20:40:09.746702Z" modified="2023-02-11T20:40:09.746706Z" visited="2023-02-11T20:40:09.746702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T20:40:09.746704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/darksoulsforest.jpeg" added="2023-02-11T20:44:14.067989Z" modified="2023-02-11T20:44:14.068007Z" visited="2023-02-11T20:44:14.067990Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T20:44:14.067999Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/limgrave.jpeg" added="2023-02-11T20:46:51.855877Z" modified="2023-02-11T20:46:51.855883Z" visited="2023-02-11T20:46:51.855878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T20:46:51.855881Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/nokstella.jpeg" added="2023-02-11T20:50:37.821459Z" modified="2023-02-11T20:50:37.821488Z" visited="2023-02-11T20:50:37.821461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T20:50:37.821464Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/frozenbridge.jpeg" added="2023-02-11T20:51:28.331737Z" modified="2023-02-11T20:51:28.331742Z" visited="2023-02-11T20:51:28.331738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T20:51:28.331740Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/bloodborne.jpg" added="2023-02-11T20:56:37.261492Z" modified="2023-02-15T18:30:06.828638Z" visited="2023-02-11T20:56:37.261493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T20:56:37.261495Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-15T18:30:06.828637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/darksoulslightgrey.jpeg" added="2023-02-13T03:15:06.884779Z" modified="2023-02-13T03:15:06.884784Z" visited="2023-02-13T03:15:06.884780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:15:06.884781Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/futuristiccityred.jpeg" added="2023-02-13T03:15:46.357243Z" modified="2023-02-13T03:15:46.357247Z" visited="2023-02-13T03:15:46.357244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:15:46.357245Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/futurecitygreengray.jpeg" added="2023-02-13T03:16:12.629889Z" modified="2023-02-13T03:16:12.629900Z" visited="2023-02-13T03:16:12.629891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:16:12.629893Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/metalicelaphantforest.jpeg" added="2023-02-13T03:17:32.939640Z" modified="2023-02-13T03:17:32.939645Z" visited="2023-02-13T03:17:32.939640Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:17:32.939642Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/autumnroad.jpeg" added="2023-02-13T03:18:02.139785Z" modified="2023-02-13T03:18:02.139789Z" visited="2023-02-13T03:18:02.139786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:18:02.139788Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/redvoid.jpeg" added="2023-02-13T03:19:10.769243Z" modified="2023-02-13T03:19:10.769248Z" visited="2023-02-13T03:19:10.769244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:19:10.769246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/galaxytree.jpeg" added="2023-02-13T03:19:31.717468Z" modified="2023-02-13T03:19:31.717473Z" visited="2023-02-13T03:19:31.717468Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:19:31.717470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/blueexoplanet.jpeg" added="2023-02-13T03:19:50.842052Z" modified="2023-02-14T02:05:10.539129Z" visited="2023-02-13T03:19:50.842053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:19:50.842054Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-14T02:05:10.539128Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/foggytraintracks.jpeg" added="2023-02-13T03:20:22.930744Z" modified="2023-02-13T03:20:22.930749Z" visited="2023-02-13T03:20:22.930745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:20:22.930746Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/spacegeometry.jpeg" added="2023-02-13T03:21:18.636128Z" modified="2023-02-13T03:21:18.636132Z" visited="2023-02-13T03:21:18.636129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:21:18.636130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/bluegalaxy.jpeg" added="2023-02-13T03:22:45.614939Z" modified="2023-02-13T03:22:45.614942Z" visited="2023-02-13T03:22:45.614939Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:22:45.614940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/purpledarksoulswasteland.jpeg" added="2023-02-13T03:24:43.412925Z" modified="2023-02-13T03:24:43.412930Z" visited="2023-02-13T03:24:43.412926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:24:43.412928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/greenspacejunk.jpeg" added="2023-02-13T03:26:08.522107Z" modified="2023-02-13T03:26:08.522111Z" visited="2023-02-13T03:26:08.522108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:26:08.522109Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/pinkorangemysticalcity.jpeg" added="2023-02-13T03:28:27.769503Z" modified="2023-02-13T03:28:27.769508Z" visited="2023-02-13T03:28:27.769504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:28:27.769506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/bluemysticalcity.jpeg" added="2023-02-13T03:28:45.739416Z" modified="2023-02-13T03:28:45.739420Z" visited="2023-02-13T03:28:45.739417Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:28:45.739418Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/lavacity.jpeg" added="2023-02-13T03:29:16.495164Z" modified="2023-02-13T03:29:16.495172Z" visited="2023-02-13T03:29:16.495166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:29:16.495168Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/blueaurora.jpeg" added="2023-02-13T03:34:07.109113Z" modified="2023-02-13T03:34:07.109121Z" visited="2023-02-13T03:34:07.109114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:34:07.109118Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/colorfuljapanesemysticcity.jpeg" added="2023-02-13T03:35:52.932226Z" modified="2023-02-13T03:35:52.932233Z" visited="2023-02-13T03:35:52.932227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:35:52.932230Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/redleaves.jpeg" added="2023-02-13T03:38:34.174825Z" modified="2023-02-13T03:38:34.174831Z" visited="2023-02-13T03:38:34.174826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T03:38:34.174829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/Hack%20Regular%20Nerd%20Font%20Complete.ttf" added="2023-02-13T21:07:56.954419Z" modified="2023-02-13T21:07:56.954429Z" visited="2023-02-13T21:07:56.954420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T21:07:56.954425Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/Hack%20Bold%20Nerd%20Font%20Complete.ttf" added="2023-02-13T21:08:16.695008Z" modified="2023-02-13T21:08:16.695013Z" visited="2023-02-13T21:08:16.695009Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T21:08:16.695011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/Hack%20Bold%20Italic%20Nerd%20Font%20Complete.ttf" added="2023-02-13T21:08:38.159357Z" modified="2023-02-13T21:08:38.159364Z" visited="2023-02-13T21:08:38.159359Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T21:08:38.159361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/Hack%20Italic%20Nerd%20Font%20Complete.ttf" added="2023-02-13T21:09:19.712090Z" modified="2023-02-13T21:09:19.712096Z" visited="2023-02-13T21:09:19.712091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T21:09:19.712093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/Space%20Mono%20Bold%20Italic%20Nerd%20Font%20Complete.ttf" added="2023-02-13T21:31:50.893891Z" modified="2023-02-13T21:31:50.893899Z" visited="2023-02-13T21:31:50.893892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T21:31:50.893896Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/Space%20Mono%20Bold%20Nerd%20Font%20Complete.ttf" added="2023-02-13T21:32:10.973680Z" modified="2023-02-13T21:32:10.973688Z" visited="2023-02-13T21:32:10.973681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T21:32:10.973685Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/Space%20Mono%20Italic%20Nerd%20Font%20Complete.ttf" added="2023-02-13T21:32:39.467316Z" modified="2023-02-13T21:32:39.467323Z" visited="2023-02-13T21:32:39.467317Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T21:32:39.467321Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/Space%20Mono%20Nerd%20Font%20Complete.ttf" added="2023-02-13T21:32:54.071119Z" modified="2023-02-13T21:32:54.071128Z" visited="2023-02-13T21:32:54.071121Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T21:32:54.071124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/DejaVu%20Sans%20Mono%20Bold%20Oblique%20Nerd%20Font%20Complete.ttf" added="2023-02-13T22:07:06.751646Z" modified="2023-02-13T22:07:06.751653Z" visited="2023-02-13T22:07:06.751647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T22:07:06.751651Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/DejaVu%20Sans%20Mono%20Bold%20Nerd%20Font%20Complete.ttf" added="2023-02-13T22:07:22.609268Z" modified="2023-02-13T22:07:22.609285Z" visited="2023-02-13T22:07:22.609281Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T22:07:22.609283Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/DejaVu%20Sans%20Mono%20Oblique%20Nerd%20Font%20Complete.ttf" added="2023-02-13T22:07:38.236576Z" modified="2023-02-13T22:07:38.236585Z" visited="2023-02-13T22:07:38.236577Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T22:07:38.236582Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/DejaVu%20Sans%20Mono%20Nerd%20Font%20Complete.ttf" added="2023-02-13T22:08:10.831222Z" modified="2023-02-13T22:08:10.831229Z" visited="2023-02-13T22:08:10.831223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-13T22:08:10.831226Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/crashingwaves.jpeg" added="2023-02-15T21:18:59.243343Z" modified="2023-02-15T21:18:59.243348Z" visited="2023-02-15T21:18:59.243344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:18:59.243346Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/finalfantasycastle.jpeg" added="2023-02-15T21:22:19.760614Z" modified="2023-02-15T21:22:19.760618Z" visited="2023-02-15T21:22:19.760614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:22:19.760616Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/fantasytreecity.jpeg" added="2023-02-15T21:22:55.754410Z" modified="2023-02-15T21:22:55.754416Z" visited="2023-02-15T21:22:55.754411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:22:55.754413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/cityjungle.jpg" added="2023-02-15T21:27:09.895247Z" modified="2023-02-15T21:27:09.895251Z" visited="2023-02-15T21:27:09.895247Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:27:09.895249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/snowvillage.jpg" added="2023-02-15T21:27:56.144611Z" modified="2023-02-15T21:27:56.144616Z" visited="2023-02-15T21:27:56.144612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:27:56.144614Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/aotstylevillage.jpg" added="2023-02-15T21:28:52.057707Z" modified="2023-02-15T21:28:52.057711Z" visited="2023-02-15T21:28:52.057708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:28:52.057710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/scarletforest.jpg" added="2023-02-15T21:29:35.258355Z" modified="2023-02-15T21:29:35.258359Z" visited="2023-02-15T21:29:35.258355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:29:35.258357Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/watercityonmountains.jpg" added="2023-02-15T21:30:03.990712Z" modified="2023-02-15T21:30:03.990717Z" visited="2023-02-15T21:30:03.990713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:30:03.990715Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/warmmountaincity.jpg" added="2023-02-15T21:30:46.307746Z" modified="2023-02-15T21:30:46.307750Z" visited="2023-02-15T21:30:46.307747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:30:46.307748Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/rockycity.jpg" added="2023-02-15T21:31:15.860849Z" modified="2023-02-18T19:33:14.230926Z" visited="2023-02-15T21:31:15.860849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-18T19:33:14.230911Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/mountaincityruines.jpg" added="2023-02-15T21:33:42.067960Z" modified="2023-02-15T21:33:42.067965Z" visited="2023-02-15T21:33:42.067960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-15T21:33:42.067962Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/floatingboatcity.jpg" added="2023-02-15T21:34:21.648860Z" modified="2023-02-18T19:32:27.593988Z" visited="2023-02-15T21:34:21.648861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-18T19:32:27.593983Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/Thomas-Cole-X9217-A5-2399275770.jpg" added="2023-02-16T17:47:11.007080Z" modified="2023-02-16T17:47:11.007085Z" visited="2023-02-16T17:47:11.007081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T17:47:11.007083Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/angelicriverboat.jpg" added="2023-02-16T17:53:08.369471Z" modified="2023-02-16T17:53:08.369477Z" visited="2023-02-16T17:53:08.369472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T17:53:08.369474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/greensavana.jpg" added="2023-02-16T17:54:50.987929Z" modified="2023-02-16T17:54:50.987935Z" visited="2023-02-16T17:54:50.987930Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T17:54:50.987932Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/romanempire.jpg" added="2023-02-16T17:55:04.840729Z" modified="2023-02-16T17:55:04.840735Z" visited="2023-02-16T17:55:04.840730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T17:55:04.840732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/romanempire4K.jpg" added="2023-02-16T17:55:50.633329Z" modified="2023-02-16T17:55:50.633336Z" visited="2023-02-16T17:55:50.633330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T17:55:50.633333Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/ascension.jpg" added="2023-02-16T17:58:25.061145Z" modified="2023-02-16T17:58:25.061151Z" visited="2023-02-16T17:58:25.061146Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T17:58:25.061149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/architectsdream.jpg" added="2023-02-16T17:59:53.611054Z" modified="2023-02-16T17:59:53.611060Z" visited="2023-02-16T17:59:53.611055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T17:59:53.611057Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/englandcastle.jpg" added="2023-02-16T18:08:32.589688Z" modified="2023-02-16T18:08:32.589693Z" visited="2023-02-16T18:08:32.589689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:08:32.589691Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/englandcastle2.jpg" added="2023-02-16T18:13:04.300471Z" modified="2023-02-16T18:13:04.300477Z" visited="2023-02-16T18:13:04.300472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:13:04.300474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/greensavana2.jpg" added="2023-02-16T18:16:03.007841Z" modified="2023-02-16T18:16:03.007846Z" visited="2023-02-16T18:16:03.007842Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:16:03.007844Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/thomascolemanhood.jpg" added="2023-02-16T18:19:31.367754Z" modified="2023-02-16T18:19:31.367760Z" visited="2023-02-16T18:19:31.367755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:19:31.367757Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/thomascolechildhood.jpg" added="2023-02-16T18:20:45.493890Z" modified="2023-02-16T18:20:45.493895Z" visited="2023-02-16T18:20:45.493890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:20:45.493892Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/Wallpapers/childhood.jpg" added="2023-02-16T18:22:16.478861Z" modified="2023-02-16T18:22:16.478867Z" visited="2023-02-16T18:22:16.478862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:22:16.478865Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/ThomasCole/ascension2.jpg" added="2023-02-16T18:30:21.522146Z" modified="2023-02-16T18:30:21.522152Z" visited="2023-02-16T18:30:21.522147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:30:21.522149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/ThomasCole/manhood.jpg" added="2023-02-16T18:31:39.049715Z" modified="2023-02-16T18:31:39.049721Z" visited="2023-02-16T18:31:39.049716Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:31:39.049719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/ThomasCole/manhood2.jpg" added="2023-02-16T18:32:59.473219Z" modified="2023-02-16T18:32:59.473228Z" visited="2023-02-16T18:32:59.473220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:32:59.473225Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/ThomasCole/architectsdream2.jpg" added="2023-02-16T18:34:13.834667Z" modified="2023-02-16T18:34:13.834672Z" visited="2023-02-16T18:34:13.834668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:34:13.834670Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Pictures/ThomasCole/green.jpg" added="2023-02-16T18:44:17.051936Z" modified="2023-02-16T18:44:17.051943Z" visited="2023-02-16T18:44:17.051936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-16T18:44:17.051940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/dmenu-center-5.2.diff" added="2023-02-17T01:50:01.126427Z" modified="2023-02-18T21:57:33.407946Z" visited="2023-02-17T01:50:01.126428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-18T21:57:33.407945Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/dmenu-border-4.9.diff" added="2023-02-17T01:59:04.739041Z" modified="2023-02-18T21:46:05.959608Z" visited="2023-02-17T01:59:04.739042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-18T21:46:05.959606Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/dmenu-center-20200111-8cd37e1.diff" added="2023-02-17T01:59:48.964064Z" modified="2023-02-17T01:59:48.964069Z" visited="2023-02-17T01:59:48.964065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-17T01:59:48.964067Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/dmenu-xresources-4.9.diff" added="2023-02-17T02:42:00.866302Z" modified="2023-02-18T22:04:15.912927Z" visited="2023-02-17T02:42:00.866303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-18T22:04:15.912925Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/slock-blur_pixelated_screen-1.4.diff" added="2023-02-17T03:29:23.563761Z" modified="2023-02-17T03:29:23.563765Z" visited="2023-02-17T03:29:23.563761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-17T03:29:23.563763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/slock-blur_pixelated_screen-1.4.diff" added="2023-02-18T01:15:54.001561Z" modified="2023-02-18T01:15:54.001566Z" visited="2023-02-18T01:15:54.001562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-18T01:15:54.001564Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/slock-message-20191002-b46028b.diff" added="2023-02-19T01:14:18.364740Z" modified="2023-02-19T01:14:18.364745Z" visited="2023-02-19T01:14:18.364741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-19T01:14:18.364743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/CiscoPacketTracer_820_Ubuntu_64bit.deb" added="2023-02-20T01:08:13.318137Z" modified="2023-02-20T01:08:13.318141Z" visited="2023-02-20T01:08:13.318138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-20T01:08:13.318139Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/A/Downloads/emmet-vim.zip" added="2023-02-20T01:38:52.351428Z" modified="2023-02-20T01:38:52.351434Z" visited="2023-02-20T01:38:52.351429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-20T01:38:52.351431Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/A/Developer'
+let g:netrw_dirhist_6='/home/A'
+let g:netrw_dirhist_5='/home/A/.config/wal'
+let g:netrw_dirhist_4='/home/A/.config'
+let g:netrw_dirhist_3='/home/A/.scripts'
+let g:netrw_dirhist_2='/home/A/.vim'
+let g:netrw_dirhist_1='/home/A/.config/awesome'

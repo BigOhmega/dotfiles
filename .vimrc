@@ -10,6 +10,7 @@ syntax on
 call plug#begin('~/.vim/plugged')
 " Pywal Plugin"
 Plug 'dylanaraps/wal.vim'
+Plug 'mattn/emmet-vim'
 call plug#end()
 
 colorscheme wal
@@ -38,3 +39,6 @@ vnoremap <C-k> 3k
 vnoremap <Esc>j :m '>+1<CR>gvgv
 vnoremap <Esc>k :m '<-2<CR>gvgv
 
+" Emmet shortcuts "
+let g:user_emmet_mode='ni'      "emmet functions avaliable in normal and insert mode"
+let g:user_emmet_leader_key=','
