@@ -170,7 +170,7 @@ awful.screen.connect_for_each_screen(function(s)
 
     -- Each screen has its own tag table.
     	-- modify names to change the names of the workspaces/layouts (you can also add or delete workspaces/layouts!!)
-	local names = { "", "", "", "", ""}
+	local names = { "", "", "", "", "󰙯", "", ""}
 	local l = awful.layout.suit  -- Just to save some typing: use an alias.
 	-- Modify layouts to set titling layouts for each workspace
 	local layouts = { l.tile, l.tile, l.tile, l.tile, l.tile}
