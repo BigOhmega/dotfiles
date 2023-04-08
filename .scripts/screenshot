@@ -1,0 +1,8 @@
+#!/bin/sh
+######################################
+#Script name: screenshot
+#Description: tool that takes a screenshot and saves it in a screenshots directory
+######################################
+
+output='/home/A/Pictures/Screenshots/%Y-%m-%d-%T-screenshot.png'
+scrot "$output"

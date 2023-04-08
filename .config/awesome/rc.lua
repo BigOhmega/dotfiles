@@ -323,6 +323,12 @@ globalkeys = gears.table.join(
 	awful.key({ "Mod1" },			  "b",		function()
 	awful.util.spawn("firefox") end,
 			{description = "Open a browser (firefox)", group = "applipcation shortcuts"}),
+	
+   -- Scrot
+   awful.key({}, "Print", function ()
+   awful.util.spawn("screenshot") end,
+		   {description = "Takes a screenshot", group = "application shortcuts"}),
+
 
 
    -- awful.key({ modkey }, "x",
