@@ -27,6 +27,9 @@ map <C-z> :! zathura --fork %:t:r.pdf<CR><CR>
 " use Ctrl-h or Ctrl-l to move left and right between vim splits "
 map <C-h> <C-w>h
 map <C-l> <C-w>l
+map <C-j> <C-w>j
+map <C-k> <C-w>k
+
 
 " Insert mode maps "
 inoremap jj <Esc>
@@ -35,8 +38,8 @@ inoremap jj <Esc>
 nnoremap cw ciw
 nnoremap dw diw
 nnoremap yw yiw
-nnoremap <C-j> 3j
-nnoremap <C-k> 3k
+nnoremap <S-j> 3j
+nnoremap <S-k> 3k
 " press alt+j or alt+k to move a line up and down through the file "
 nnoremap <Esc>j :m .+1<CR>
 nnoremap <Esc>k :m .-2<CR>
