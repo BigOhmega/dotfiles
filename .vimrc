@@ -12,6 +12,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'dylanaraps/wal.vim'
 " Emmet Plugin"
 Plug 'mattn/emmet-vim'
+" NerdTree Plugin "
+Plug 'preservim/nerdtree'
 call plug#end()
 
 colorscheme wal
@@ -19,8 +21,12 @@ colorscheme wal
 " ------------KEYBINDS------------- "
 " Ctrl-p to use compile script"
 map <C-p> :!compile % <CR>
-" Ctrl + d to open pdf, mainly for latex documents"
-map <C-d> :! zathura --fork %:t:r.pdf<CR><CR>
+" Ctrl + z to open pdf, mainly for latex documents"
+map <C-z> :! zathura --fork %:t:r.pdf<CR><CR>
+
+" use Ctrl-h or Ctrl-l to move left and right between vim splits "
+map <C-h> <C-w>h
+map <C-l> <C-w>l
 
 " Insert mode maps "
 inoremap jj <Esc>
@@ -46,3 +52,10 @@ vnoremap <Esc>k :m '<-2<CR>gvgv
 " Emmet shortcuts (HTML plug in that makes HTML coding in vim easier)"
 let g:user_emmet_mode='ni'      "emmet functions avaliable in normal and insert mode"
 let g:user_emmet_leader_key=',' "press comma key twice to use emmet functions"
+
+" NERDTree remaps "
+nnoremap <C-n> :NERDTreeToggle<CR>
+
+" Exit Vim if NERDTree is the only window remaining in the only tab. "
+" Close the tab if NERDTree is the only window remaining in it. "
+autocmd BufEnter * if winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif"

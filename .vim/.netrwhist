@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/A/Developer/GitProjectsOthers/packettracer'
 let g:netrw_dirhist_7='/home/A/Developer'
 let g:netrw_dirhist_6='/home/A'
 let g:netrw_dirhist_5='/home/A/.config/wal'
